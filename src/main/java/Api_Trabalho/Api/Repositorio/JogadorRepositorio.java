@@ -5,3 +5,5 @@ import java.Api_Trabalho.Api.modelo.Jogador;
 
 public interface JogadorRepositorio extends JpaRepository<Jogador, Long>{
 }
+
+// Alteração para teste de commit
